@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://andrej.io/categories/</loc>
+    <loc>https://andrej.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://andrej.io/tags/</loc>
+    <loc>https://andrej.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://andrej.io/</loc>
+    <loc>https://andrej.io/</loc>
     <priority>0</priority>
   </url>
   
