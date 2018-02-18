@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>andrej.io</title>
-    <link>https://andrej.io/</link>
-    <description>Recent content on andrej.io</description>
+    <title>Posts on andrej.io</title>
+    <link>https://andrej.io/posts/</link>
+    <description>Recent content in Posts on andrej.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 Feb 2018 15:50:33 +0300</lastBuildDate>
     
-	<atom:link href="https://andrej.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://andrej.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
